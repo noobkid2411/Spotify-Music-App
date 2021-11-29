@@ -2,9 +2,7 @@
 
 A simple app the recommends three songs based on a given three artists.
 
-Link:https://unequaled-thoracic-protocol.glitch.me/
-
-
+Link: https://unequaled-thoracic-protocol.glitch.me/
 
 
 On the front-end,
