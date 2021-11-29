@@ -1,9 +1,9 @@
 # Spotify Song Recommender
 
-A simple app the recommends three songs based on a given song (title + artist)
+A simple app the recommends three songs based on a given three artists.
 
 
-## Your Project
+
 
 On the front-end,
 
